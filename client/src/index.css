@@ -1,0 +1,13 @@
+@import "./css/global.css";
+@import "./css/navbar.css";
+@import "./css/home-page.css";
+@import "./css/repository-input-page.css";
+@import "./css/prediction-result-page.css";
+@import "./css/prediction-history-page.css";
+@import "./css/how-it-works-page.css";
+@import "./css/feedback-page.css";
+@import "./css/prediction-table.css";
+@import "./css/side-panel.css";
+@import "./css/badges.css";
+@import "./css/metric-guide.css";
+@import "./css/compact-explanation.css";
